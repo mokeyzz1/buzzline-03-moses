@@ -93,6 +93,10 @@ def process_message(message: str) -> None:
         author = message_dict.get("author", "unknown")
         logger.info(f"Message received from author: {author}")
 
+        # Check for MK-ALERT pattern in message field
+        if "MK-ALERT" in message_dict.get("message", ""):
+            logger.warning("ALERT DETECTED: MK-ALERT pattern matched in message.")
+
         # Increment the count for the author
         author_counts[author] += 1
 
