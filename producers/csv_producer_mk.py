@@ -20,6 +20,10 @@ import csv  # handle CSV data
 import json  # work with JSON data
 from datetime import datetime  # work with timestamps
 
+# Add project root to sys.path so 'utils' can be found
+PROJECT_ROOT = pathlib.Path(__file__).parent.parent
+sys.path.append(str(PROJECT_ROOT))
+
 # Import external packages
 from dotenv import load_dotenv
 
@@ -70,7 +74,7 @@ DATA_FOLDER = PROJECT_ROOT.joinpath("data")
 logger.info(f"Data folder: {DATA_FOLDER}")
 
 # Set the name of the data file
-DATA_FILE = DATA_FOLDER.joinpath("smoker_temps.csv")
+DATA_FILE = DATA_FOLDER.joinpath("mk_temps.csv")
 logger.info(f"Data file: {DATA_FILE}")
 
 #####################################

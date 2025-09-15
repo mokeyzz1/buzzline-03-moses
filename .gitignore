@@ -29,3 +29,5 @@ __pycache__/
 # Jupyter Notebook (basic ignore)
 # ----------------------------------------
 .ipynb_checkpoints
+.env
+logs/
