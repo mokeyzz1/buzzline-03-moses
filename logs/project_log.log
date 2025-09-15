@@ -1,1 +1,55 @@
-2025-09-15 02:20:05 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:21 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:21 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:25 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:25 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:29 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:29 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:33 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:33 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:33 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:34 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:36 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:37 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:37 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:37 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:39 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:40 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:41 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:41 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:45 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:45 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:49 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:49 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
+2025-09-15 02:24:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'MK-ALERT: Model drift detected in production.', 'author': 'Moses'}
+2025-09-15 02:24:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka enables real-time pipelines for streaming use cases.', 'author': 'Moses'}
+2025-09-15 02:24:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'This message was sent by a custom producer script.', 'author': 'MK'}
+2025-09-15 02:24:53 | INFO | Opening data file in read mode: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:53 | INFO | Reading data from file: /Users/USER/buzzline-03-moses/data/buzz.json
+2025-09-15 02:24:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is powerful.', 'author': 'Moses'}
